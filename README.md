@@ -1,4 +1,4 @@
-# National Parks Biodiversity
+# National Parks Biodiversity 🏞️
 Analysis of data from National Parks Service about endangered species in different parks, biodiversity, and conservation statuses of these species.
 
 ## Table of Contents
@@ -12,14 +12,14 @@ Analysis of data from National Parks Service about endangered species in differe
 ### Understanding the Problem
 
 Currently more than 40,000 species in the world face the threat of extinction with over 140,000 endangered or crtitcally endangered species. According to the IUCN Red List, of these are:
-* 41% Amphibians 
-* 26% Mammals
-* 34% Conifers
-* 13% Birds
-* 37% Sharks and Rays
-* 33% Reef Coral
-* 28% Crustaceans
-* 21% Reptiles
+* 41% Amphibians 🐸
+* 26% Mammals 🐒
+* 34% Conifers 🌲
+* 13% Birds 🐦
+* 37% Sharks and Rays 🐟
+* 33% Reef Coral 🪨
+* 28% Crustaceans 🦀
+* 21% Reptiles 🦎
 
 ### Goals
 
